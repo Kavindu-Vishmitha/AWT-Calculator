@@ -27,14 +27,14 @@ A simple Calculator GUI application built using Java AWT (Abstract Window Toolki
 - Clean UI with colored button differentiation
   
 
-🛠 Built With
+✅ Built With
 
 - Java AWT (Abstract Window Toolkit)
 
 - No external dependencies - purely Java Standard Library
 
 
-📸 Screenshots
+✅ Screenshots
 
 ![image alt](https://github.com/Kavindu-Vishmitha/AWT-Calculator/blob/60fdb84be0929c199e9c2ed4c4c8d9eac370db6a/screenshot/Calculator.png)
 
