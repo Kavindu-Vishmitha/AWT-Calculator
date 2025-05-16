@@ -31,7 +31,7 @@ A simple Calculator GUI application built using Java AWT (Abstract Window Toolki
 
 - Java AWT (Abstract Window Toolkit)
 
-- No external dependencies — purely Java Standard Library
+- No external dependencies - purely Java Standard Library
 
 
 📸 Screenshots
